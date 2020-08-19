@@ -1,0 +1,6 @@
+framework module Pods_IAcademyWeather {
+  umbrella header "Pods-IAcademyWeather-umbrella.h"
+
+  export *
+  module * { export * }
+}
